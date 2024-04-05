@@ -12,7 +12,23 @@ All the markers in a dictionary contain the same number of blocks or bits(4×4, 
 
 ### Marker patterns available on the market
 
-![image](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/9c114c29-5982-418f-8996-10d95c90fe48)
+| Name      | Shape   | Color      | Encoding      | Marker                                                                                                    |
+|-----------|---------|------------|---------------|-----------------------------------------------------------------------------------------------------------|
+| AprilTag  | Square  | Monochrome | Topological   | ![image](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/2a576aa2-fb1e-48e9-ae85-2be51e104a28) | 
+| ARTag     | Square  | Monochrome | Topological   | ![image](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/7a753a51-4c3c-4375-9366-97f885298cdd) | 
+| ARToolKit | Square  | Monochrome | Topological   | ![image](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/ebe39f1b-4230-4ab7-86da-55bfbb7f32f8) | 
+| ArUco     | Square  | Monochrome | Topological   | ![image](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/776deb7d-a9be-4af5-b33b-5f8bb5211d83) | 
+| BullsEye  | Circle  | Monochrome | Topological   | ![image](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/98b9a514-a909-44ef-b881-4258c7c5734a) | 
+| CATag     | Square  | Monochrome | Topological   | ![image](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/6421dc40-1b36-4a90-8b2f-2d1794e7a904) | 
+| CCC       | Circle  | Monochrome | Not Supported | ![image](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/ea6e29ef-d433-4e9a-8a0e-ceaaebd61d46) |
+| CCTag     | Circle  | Monochrome | Topological   | ![image](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/3530e90c-8d63-4b6b-8018-017c69b3a6e4) | 
+| ChromaTag | Square  | Multicolor | Topological   | ![image](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/560e0147-9adb-4b7c-8ab4-6c8b58c255a4) | 
+| FourierTag| Circle  | Grayscale  | Freq. Spectrum| ![image](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/de0f5c9c-925a-4fca-9c2c-0c3932c95677) | 
+| Multi-ring| Circle  | Multicolor | Not Supported | ![image](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/f610b9e6-abfb-49da-ab1e-411bb1149a5d) | 
+| Pi-Tag    | Square  | Monochrome | Topological   | ![image](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/e48d2d86-4639-44dc-a53e-bcf57fab1435) |
+| RuneTag   | Circle  | Monochrome | Topological   | ![image](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/5f0537d1-5a94-4978-9632-d09bd13ebb55) |
+| STag      | Square  | Monochrome | Topological   | ![image](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/db0fce55-62cd-492e-bb3b-79334ffcc5c8) |
+| WhyCode   | Circle  | Monochrome | Topological   | ![image](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/18f0576f-9459-4fb2-ba4b-140ff52676ca) | 
 
 ### What are the requirments for the markers?
 
