@@ -59,7 +59,7 @@ Intel(R) RealSense(TM) Depth Camera 435i
 ### How to print new Marker?
 There is an online public website called **ArUco markers generator!** and as shown, the marker should have Dictionary Name, ID, and size. 
 
-<img src="https://github.com/Arwa-Fawzy/RGB-Marker-Detection/assets/101527083/93fe9ce5-a4e5-48a4-a251-488f92d80a81"alt="Img" width="400">
+<img src="https://github.com/Arwa-Fawzy/RGB-Marker-Detection/assets/101527083/93fe9ce5-a4e5-48a4-a251-488f92d80a81" alt="Img" width="400">
 
 
 
