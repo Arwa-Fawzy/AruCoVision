@@ -39,7 +39,7 @@ All the markers in a dictionary contain the same number of blocks or bits(4×4, 
 5. **Orientation**: Markers should be detectable from any orientation.
 
 ### What are the IDs of markers detected? 
-There are 5 samples of ArUco markers was printed in 3D cube shape. 
+There are 5 samples of ArUco markers was printed in 3D cube shape, where each face has a marker pattern and one face is blank white. 
 
 ![WhatsApp Image 2024-04-06 at 6 27 50 PM](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/01de48d7-d724-49cb-9e40-74a03832c07c)
 
