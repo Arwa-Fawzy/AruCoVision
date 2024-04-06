@@ -50,10 +50,9 @@ Intel(R) RealSense(TM) Depth Camera 435i
 
 ### ArUco Marker detection output:
 
-![image](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/f32739e3-0e60-4e60-a1e2-fd511242e632)
+<img src="https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/f32739e3-0e60-4e60-a1e2-fd511242e632" alt="image" width="400">
 
 ### ArUco Marker Pose estimation output:
-
 
 <img src="https://github.com/Arwa-Fawzy/RGB-Marker-Detection/assets/101527083/e474ff01-df5b-4269-bae9-7b83e4536ed9" alt="Img" width="200">
 
