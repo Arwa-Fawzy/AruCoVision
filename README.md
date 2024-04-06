@@ -41,12 +41,12 @@ All the markers in a dictionary contain the same number of blocks or bits(4×4, 
 ### What are the IDs of markers detected? 
 There are 5 samples of ArUco markers was printed in 3D cube shape, where each face has a marker pattern and one face is blank white. 
 
-![WhatsApp Image 2024-04-06 at 6 27 50 PM](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/01de48d7-d724-49cb-9e40-74a03832c07c)
+<img src="https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/01de48d7-d724-49cb-9e40-74a03832c07c" alt="img" width="400">
 
 ### What is the camera used for this code? 
 Intel(R) RealSense(TM) Depth Camera 435i
 
-![WhatsApp Image 2024-04-06 at 4 43 37 PM](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/ae5feb8e-a463-4ae6-9474-654d97657a61)
+<img src="https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/ae5feb8e-a463-4ae6-9474-654d97657a61" alt="Img" width="200">
 
 ### ArUco Marker detection output:
 
@@ -54,6 +54,8 @@ Intel(R) RealSense(TM) Depth Camera 435i
 
 ### ArUco Marker Pose estimation output:
 
+
+<img src="https://github.com/Arwa-Fawzy/RGB-Marker-Detection/assets/101527083/e474ff01-df5b-4269-bae9-7b83e4536ed9" alt="Img" width="200">
 
 
 
