@@ -38,10 +38,17 @@ All the markers in a dictionary contain the same number of blocks or bits(4×4, 
 4. **Resolution**: The pattern resolution should enable accurate detection.
 5. **Orientation**: Markers should be detectable from any orientation.
 
+### What is the camera used for this code? 
+Intel(R) RealSense(TM) Depth Camera 435i
+
+![WhatsApp Image 2024-04-06 at 4 43 37 PM](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/ae5feb8e-a463-4ae6-9474-654d97657a61)
+
+### ArUco Marker detection output:
+
+![image](https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/f32739e3-0e60-4e60-a1e2-fd511242e632)
 
 ### ArUco Marker Pose estimation output:
 
 
-### ArUco Marker detection output:
 
 
