@@ -46,7 +46,7 @@ There are 5 samples of ArUco markers was printed in 3D cube shape, where each fa
 ### What is the camera used for this code? 
 Intel(R) RealSense(TM) Depth Camera 435i
 
-<img src="https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/ae5feb8e-a463-4ae6-9474-654d97657a61" alt="Img" width="200">
+<img src="https://github.com/Arwa-Fawzy/AruCoVision/assets/101527083/ae5feb8e-a463-4ae6-9474-654d97657a61" alt="Img" width="400">
 
 ### ArUco Marker detection output:
 
@@ -54,7 +54,7 @@ Intel(R) RealSense(TM) Depth Camera 435i
 
 ### ArUco Marker Pose estimation output:
 
-<img src="https://github.com/Arwa-Fawzy/RGB-Marker-Detection/assets/101527083/e474ff01-df5b-4269-bae9-7b83e4536ed9" alt="Img" width="200">
+<img src="https://github.com/Arwa-Fawzy/RGB-Marker-Detection/assets/101527083/e474ff01-df5b-4269-bae9-7b83e4536ed9" alt="Img" width="400">
 
 
 
