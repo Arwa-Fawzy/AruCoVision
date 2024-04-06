@@ -1,4 +1,4 @@
-# AruCoVision
+# RGB Marker Detection
 ArUco marker for pose estimation, camera calibration, and augmented reality to track object movement.
 
 ### What is ArUco Markers?
